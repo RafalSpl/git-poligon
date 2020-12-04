@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.News {
+  background: lightgreen;
+  border: 1px solid red;
+}
+
+.News p {
+  background-color: yellow;
+}
