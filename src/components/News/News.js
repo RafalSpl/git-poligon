@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 
-import Author from '../components/Author/';
-import Scoring from '../components/Scoring/';
+import Author from '../Author/';
+import Scoring from '../Scoring/';
 
 const styles = {
     backgroundColor: 'lightgreen',
